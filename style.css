@@ -1,0 +1,182 @@
+/* Start-Architects */
+
+.btn-primary{
+    color: azure;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+   height: 64px; 
+   border-radius: 5px;
+   background: #FF900E
+}
+
+.header-section{
+    background: rgba(255, 144, 14, 0.1);
+}
+
+.architec{
+   
+    margin: auto;
+  
+}
+.navbar{
+    width: 85%;
+    margin: auto;
+    margin: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar ul li {
+    list-style: none;
+display: inline-block;
+margin: 0 20px;
+}
+.navbar ul li a{
+text-decoration: none;
+color: black;
+text-transform: uppercase;
+}
+
+.brand{
+text-align: center;
+
+}
+
+.brand-heading{
+    
+    font-size: 40px;
+   
+    
+}
+.banner{
+
+padding: 20px;
+
+
+
+}
+
+.features{
+    display: flex;
+    align-items: center;
+ 
+}
+
+.team{
+    display: grid;
+    grid-template-columns: repeat(2,2fr) ;
+   gap: 1px;
+   padding: 80px;
+   
+    
+}
+
+.brand{
+    padding: 10px;
+}
+
+.quick-list{
+    color: #727272;
+}
+
+.feature{
+    color: 
+    #FF900E;
+}
+
+
+/* Features you will  */
+
+.feature-content{
+    display: grid;
+    grid-template-columns: repeat(2,2fr) ;
+}
+
+
+
+.all-feature{
+    padding: 50px;
+    list-style-type: none;
+    
+}
+.all-feature
+
+.all-feature ul li{
+    list-style: none;
+display: inline-block;
+margin: 0 20px; }
+
+.love-enjoy{
+    font-size: 50px;
+    
+}
+
+.border{
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06) ;
+    border-radius: 5px
+}
+
+/* <!-- Some Facts --> */
+
+.some{
+    padding: 70px;
+}
+
+.some-title{
+    font-size: 30px;
+}
+
+.four-type{
+    display: flex;
+    gap: 74px;
+    text-align: center;
+    padding-left: 180px;
+    padding-right: 180px;
+   
+   
+   
+}
+
+.work{
+    background: #FEF7F3;
+   
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06) ;
+  
+   
+    border: solid;
+    border-width: medium;
+    
+
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  gap: 1px;
+    
+}
+
+.number{
+    font-size: 30px;
+}
+
+/* Our Sponspors */
+
+
+.our-sponspors{
+    text-align: center;
+}
+
+.images-sp{
+    display: flex;
+    text-align: center;
+    gap: 100px;
+    padding: 50px;
+}
+
+.last-copy{
+background-color: bisque;
+text-align: center;
+background-size: 100px;
+}
